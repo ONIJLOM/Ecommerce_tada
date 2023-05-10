@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" href="images/icono famosa.png" type="image/x-icon" />
-    <title>FAMOSA</title>
+    <title>TADA</title>
     <link rel="stylesheet" href="{{url('assets/css/bootstrap.min.css')}}">
 
     <!-- Our Custom CSS -->

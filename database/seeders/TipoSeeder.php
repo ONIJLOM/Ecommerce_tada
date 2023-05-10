@@ -16,13 +16,10 @@ class TipoSeeder extends Seeder
     public function run()
     {
         Tipo::create([
-            'nombre' => 'Fideo'
+            'nombre' => 'Con Alcohol'
         ]);
         Tipo::create([
-            'nombre' => 'Harina'
-        ]);
-        Tipo::create([
-            'nombre' => 'Salvado'
+            'nombre' => 'Sin Alcohol'
         ]);
     }
 }

@@ -17,8 +17,9 @@
                         </button>
                         <!-- RD Navbar Brand-->
                         <div class="rd-navbar-brand">
-                            <a class="brand" href="/home"><img class="brand-logo-dark"
-                                    src="images/logo-famosa.png" alt="" width="198px" height="66px" /></a>
+                            <a class="brand" href="/home">
+                                <img class="brand-logo-dark"
+                                    src="images/logo-famosa.png" alt="" width="100px" height="66px" /></a>
                         </div>
                     </div>
                     <div class="rd-navbar-right rd-navbar-nav-wrap">
@@ -30,7 +31,7 @@
                                             <span class="icon mdi mdi-phone"></span>
                                         </div>
                                         <div class="unit-body">
-                                            <a class="phone" href="tel:#">+591 718-999-3939</a>
+                                            <a class="phone" href="tel:#">+591 710-065-35</a>
                                         </div>
                                     </div>
                                 </li>
@@ -63,9 +64,9 @@
                                 <li class="rd-nav-item">
                                     <a class="rd-nav-link" href="{{ route('catalogo') }}">Catálogo</a>
                                 </li>
-                                <li class="rd-nav-item">
+                                {{-- <li class="rd-nav-item">
                                     <a class="rd-nav-link" href="{{ route('contacto') }}">Contáctanos</a>
-                                </li>
+                                </li> --}}
                             </ul>
                         </div>
                     </div>
@@ -94,7 +95,7 @@
                                 <a class="rd-nav-link" href="{{ route('login') }}">Iniciar Sesión</a>
                             </li>
                             <li class="rd-nav-item">
-                                <a class="rd-nav-link" href="index.html">Configurar Cuenta</a>
+                                {{-- <a class="rd-nav-link" href="index.html">Configurar Cuenta</a> --}}
                             </li>
                         </div>
                     </div>

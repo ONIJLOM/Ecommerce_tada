@@ -8,7 +8,7 @@
                 </div>
                 <form class="login100-form validate-form" action="{{ route('loginA') }}" method="POST">
                     @csrf
-                    <span class="login100-form-title"> Famosa Login</span>
+                    <span class="login100-form-title"> Tada Login</span>
                     @include('layouts.partials.messages')
                     <div class="wrap-input100 validate-input">
                         <input class="input100" type="email" name="email" placeholder="Email" id="email"

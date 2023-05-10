@@ -11,9 +11,9 @@
             <ul
               class="footer-modern-list d-inline-block d-sm-block wow fadeInUp"
             >
-              <li><a href="#">Fideos</a></li>
-              <li><a href="#">Harina</a></li>
-              <li><a href="#">Salvado</a></li>
+              <li><a href="#">bebidas</a></li>
+              <li><a href="#">Gaseosas</a></li>
+
 <!--                   <li><a href="#">Fideos</a></li>
               <li><a href="#">Fideos</a></li>
               <li><a href="#">Fideos</a></li> -->
@@ -111,7 +111,7 @@
                     <span class="icon icon-24 mdi mdi-phone"></span>
                   </div>
                   <div class="unit-body">
-                    <a class="phone" href="tel:#">33462670</a>
+                    <a class="phone" href="tel:#">71006535</a>
                   </div>
                 </div>
               </div>
@@ -121,7 +121,7 @@
                     <span class="icon mdi mdi-email"></span>
                   </div>
                   <div class="unit-body">
-                    <a class="mail" href="mailto:#">famosa@infor.org</a>
+                    <a class="mail" href="mailto:#">tada@infor.org</a>
                   </div>
                 </div>
               </div>

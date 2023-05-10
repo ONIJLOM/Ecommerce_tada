@@ -15,7 +15,7 @@ return new class extends Migration
     {
         Schema::create('pesos', function (Blueprint $table) {
             $table->id();
-            $table->integer('gramos');
+            $table->integer('ml');
             $table->timestamps();
         });
     }

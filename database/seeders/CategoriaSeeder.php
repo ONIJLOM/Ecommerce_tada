@@ -16,17 +16,27 @@ class CategoriaSeeder extends Seeder
     public function run()
     {
         categoria::create([
-            'nombre' => 'Fideos Largos',
+            'nombre' => 'Cervezas',
             'id_Tipo' => '1'
         ]);
 
         categoria::create([
-            'nombre' => 'Fideos Cortos',
-            'id_Tipo' => '1'
+            'nombre' => 'Gaseosas',
+            'id_Tipo' => '2'
         ]);
 
         categoria::create([
-            'nombre' => 'Fideos Nidos',
+            'nombre' => 'Energizante',
+            'id_Tipo' => '2'
+        ]);
+
+        categoria::create([
+            'nombre' => 'Agua',
+            'id_Tipo' => '2'
+        ]);
+
+        categoria::create([
+            'nombre' => 'Ron',
             'id_Tipo' => '1'
         ]);
     }

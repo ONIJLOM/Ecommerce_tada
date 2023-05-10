@@ -4,20 +4,20 @@
     <section class="section swiper-container swiper-slider swiper-slider-2 swiper-slider-3" data-loop="true"
         data-autoplay="5000" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper text-sm-left">
-            <div class="swiper-slide context-dark" data-slide-bg="images/Pasta-Larga_FAMOSA_4-1.webp">
+            <div class="swiper-slide context-dark" data-slide-bg="images/open-graph2tada.png">
                 <div class="swiper-slide-caption section-md">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-9 col-md-8 col-lg-7 col-xl-7 offset-lg-1 offset-xxl-0">
                                 <h1 class="oh swiper-title">
                                     <span class="d-inline-block" data-caption-animate="slideInUp"
-                                        data-caption-delay="0">Fideos Perfectos</span>
+                                        data-caption-delay="0">LA MEJOR COMODIDAD</span>
                                 </h1>
                                 <p class="big swiper-text" data-caption-animate="fadeInLeft" data-caption-delay="300">
-                                    Pruebe los mejores fideos de la ciudad hasta incluso del
+                                    Pruebe nuestro mejor servicio de la ciudad hasta incluso del
                                     país!!
                                 </p>
-                                <a class="button button-lg button-primary button-winona button-shadow-2" href="#"
+                                <a class="button button-lg button-primary button-winona button-shadow-2" href="{{ route('catalogo') }}"
                                     data-caption-animate="fadeInUp" data-caption-delay="300">Ver productos</a>
                             </div>
                         </div>
@@ -34,11 +34,11 @@
                                         data-caption-delay="0">Productos de Calidad</span>
                                 </h1>
                                 <p class="big swiper-text" data-caption-animate="fadeInRight" data-caption-delay="300">
-                                    Nos aseguramos que el proceso de nuestros fideos sea único
-                                    para una mejor experiencia culinaria
+                                    Nos aseguramos que el proceso de nuestros productos sea único
+                                    para una mejor experiencia
                                 </p>
                                 <div class="button-wrap oh">
-                                    <a class="button button-lg button-primary button-winona button-shadow-2" href="#"
+                                    <a class="button button-lg button-primary button-winona button-shadow-2" href="{{ route('catalogo') }}"
                                         data-caption-animate="slideInUp" data-caption-delay="0">Ver productos</a>
                                 </div>
                             </div>
@@ -64,10 +64,10 @@
         </div>
     </section>
     <!-- What We Offer-->
-    <section class="section section-md bg-default">
+     <section class="section section-md bg-default">
         <div class="container">
             <h3 class="oh-desktop">
-                <span class="d-inline-block wow slideInDown">Recetas</span>
+                <span class="d-inline-block wow slideInDown">productos</span>
             </h3>
             <div class="row row-md row-30">
                 <div class="col-sm-6 col-lg-4">
@@ -75,11 +75,11 @@
                         <!-- Services Terri-->
                         <article class="services-terri wow slideInUp">
                             <div class="services-terri-figure">
-                                <img src="images/Banderillas.jpg" alt="" width="370" height="278" />
+                                <img src="images/paceña.jpg" alt="" width="370" height="278" />
                             </div>
                             <div class="services-terri-caption">
                                 <!-- <span class="services-terri-icon linearicons-leaf"></span> -->
-                                <h5 class="services-terri-title"><a href="#">Banderillas</a></h5>
+                                <h5 class="services-terri-title"><a href="#">Paceña</a></h5>
                             </div>
                         </article>
                     </div>
@@ -89,11 +89,11 @@
                         <!-- Services Terri-->
                         <article class="services-terri wow slideInUp">
                             <div class="services-terri-figure">
-                                <img src="images/Famosos Crepes.jpg" alt="" width="370" height="278" />
+                                <img src="images/pepsi.jpg" alt="" width="370" height="278" />
                             </div>
                             <div class="services-terri-caption">
                                 <!-- <span class="services-terri-icon linearicons-leaf"></span> -->
-                                <h5 class="services-terri-title"><a href="#">Famosos Crepes</a></h5>
+                                <h5 class="services-terri-title"><a href="#">Pepsi</a></h5>
                             </div>
                         </article>
                     </div>
@@ -103,12 +103,12 @@
                         <!-- Services Terri-->
                         <article class="services-terri wow slideInDown">
                             <div class="services-terri-figure">
-                                <img src="images/Fideos a la Crema de Quesos.jpg" alt="" width="370"
+                                <img src="images/corona.jpg" alt="" width="370"
                                     height="278" />
                             </div>
                             <div class="services-terri-caption">
                                 <!-- <span class="services-terri-icon linearicons-pizza"></span> -->
-                                <h5 class="services-terri-title"><a href="#">Fideos a la Crema de Quesos</a></h5>
+                                <h5 class="services-terri-title"><a href="#">Corona</a></h5>
                             </div>
                         </article>
                     </div>
@@ -117,13 +117,12 @@
                     <div class="oh-desktop">
                         <article class="services-terri wow slideInDown">
                             <div class="services-terri-figure">
-                                <img src="images/Fideos con Boloñesa de Carne y Aceitunas.jpg" alt="" width="370"
+                                <img src="images/huari.jpg" alt="" width="370"
                                     height="278" />
                             </div>
                             <div class="services-terri-caption">
                                 <!--   <span class="services-terri-icon linearicons-pizza"></span> -->
-                                <h5 class="services-terri-title"><a href="#">Fideos con Boloñesa de Carne y
-                                        Aceitunas</a></h5>
+                                <h5 class="services-terri-title"><a href="#">Huari</a></h5>
                             </div>
                         </article>
                     </div>
@@ -133,12 +132,12 @@
                         <!-- Services Terri-->
                         <article class="services-terri wow slideInUp">
                             <div class="services-terri-figure">
-                                <img src="images/Fideos con Pato.jpg" alt="" width="370" height="278" />
+                                <img src="images/monster.jpg" alt="" width="370" height="278" />
                             </div>
                             <div class="services-terri-caption">
                                 <!--  <span class="services-terri-icon linearicons-hamburger"></span> -->
                                 <h5 class="services-terri-title">
-                                    <a href="#">Fideos con Pato</a>
+                                    <a href="#">Monster</a>
                                 </h5>
                             </div>
                         </article>
@@ -149,13 +148,13 @@
                         <!-- Services Terri-->
                         <article class="services-terri wow slideInUp">
                             <div class="services-terri-figure">
-                                <img src="images/Nankhatai (Galletas de Mantequilla de la India).jpg" alt=""
+                                <img src="images/redbull.jpg" alt=""
                                     width="370" height="278" />
                             </div>
                             <div class="services-terri-caption">
                                 <!-- <span class="services-terri-icon linearicons-hamburger"></span> -->
                                 <h5 class="services-terri-title">
-                                    <a href="#">Galletas de Mantequilla</a>
+                                    <a href="#">Redbull</a>
                                 </h5>
                             </div>
                         </article>
@@ -164,7 +163,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="oh-desktop">
                         <!-- Services Terri-->
-                        <article class="services-terri wow slideInDown">
+                        {{-- <article class="services-terri wow slideInDown">
                             <div class="services-terri-figure">
                                 <img src="images/Pasta Chips.jpg" alt="" width="370" height="278" />
                             </div>
@@ -174,10 +173,10 @@
                                     <a href="#">Pasta Chips</a>
                                 </h5>
                             </div>
-                        </article>
+                        </article> --}}
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4">
+                {{-- <div class="col-sm-6 col-lg-4">
                     <div class="oh-desktop">
                         <!-- Services Terri-->
                         <article class="services-terri wow slideInUp">
@@ -190,8 +189,8 @@
                             </div>
                         </article>
                     </div>
-                </div>
-                <div class="col-sm-6 col-lg-4">
+                </div> --}}
+                {{-- <div class="col-sm-6 col-lg-4">
                     <div class="oh-desktop">
                         <!-- Services Terri-->
                         <article class="services-terri wow slideInDown">
@@ -207,13 +206,13 @@
                             </div>
                         </article>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
 
     <!-- Section CTA-->
-    <section class="primary-overlay section parallax-container" data-parallax-img="images/portada3.png">
+    <section class="primary-overlay section parallax-container" data-parallax-img="images/ppp.jpg">
         <div class="parallax-content section-xl context-dark text-md-left">
             <div class="container">
                 <div class="row justify-content-end">
@@ -223,11 +222,11 @@
                                 Los mejores servicios
                             </h3>
                             <p class="lead">
-                                Famosa, la verdadera pasta Boliviana.
+                                TADA, la verdadera tienda online Boliviana de bebidas.
                             </p>
                             <p class="cta-modern-text oh-desktop" data-wow-delay=".1s">
-                                <span class="cta-modern-decor wow slideInLeft"></span><span
-                                    class="d-inline-block wow slideInDown">José María Vicente Vicario, Fundador</span>
+                                {{-- <span class="cta-modern-decor wow slideInLeft"></span><span
+                                    class="d-inline-block wow slideInDown"></span> --}}
                             </p>
                             <a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="#"
                                 data-wow-delay=".2s">Vea nuestros servicios</a>
@@ -249,16 +248,16 @@
                     <!-- Product-->
                     <article class="product wow fadeInLeft" data-wow-delay=".15s">
                         <div class="product-figure">
-                            <img src="images/Harina-000.png" alt="" width="161" height="162" />
+                            <img src="images/cocacola3l.jpg" alt="" width="181" height="193" />
                         </div>
                         <div class="product-rating">
                             <span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span
                                 class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span
                                 class="mdi mdi-star text-gray-13"></span>
                         </div>
-                        <h6 class="product-title">Harina-000</h6>
+                        <h6 class="product-title">Coca Cola 3 Lts</h6>
                         <div class="product-price-wrap">
-                            <div class="product-price">Bs8.00</div>
+                            <div class="product-price">Bs15.00</div>
                         </div>
                         <div class="product-button">
                             <div class="button-wrap">
@@ -275,16 +274,16 @@
                     <!-- Product-->
                     <article class="product wow fadeInLeft" data-wow-delay=".1s">
                         <div class="product-figure">
-                            <img src="images/Codo Grande Rigatti-1.jpg" alt="" width="161" height="162" />
+                            <img src="images/paceña300ml.png" alt="" width="161" height="162" />
                         </div>
                         <div class="product-rating">
                             <span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span
                                 class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span
                                 class="mdi mdi-star"></span>
                         </div>
-                        <h6 class="product-title">Codo Grande Rigatti</h6>
+                        <h6 class="product-title">cerveza Paceña 300ml</h6>
                         <div class="product-price-wrap">
-                            <div class="product-price">Bs4.00</div>
+                            <div class="product-price">Bs6.00</div>
                         </div>
                         <div class="product-button">
                             <div class="button-wrap">
@@ -302,16 +301,16 @@
                     <!-- Product-->
                     <article class="product wow fadeInLeft" data-wow-delay=".05s">
                         <div class="product-figure">
-                            <img src="images/Spaghetti-1.jpg" alt="" width="161" height="162" />
+                            <img src="storage/productos/redbull300ml.png" alt="" width="161" height="162" />
                         </div>
                         <div class="product-rating">
                             <span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span
                                 class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span
                                 class="mdi mdi-star text-gray-13"></span>
                         </div>
-                        <h6 class="product-title">Spaghetti</h6>
+                        <h6 class="product-title">Red Bull 300ml</h6>
                         <div class="product-price-wrap">
-                            <div class="product-price">Bs5.00</div>
+                            <div class="product-price">Bs15.00</div>
                         </div>
                         <div class="product-button">
                             <div class="button-wrap">
@@ -328,17 +327,17 @@
                     <!-- Product-->
                     <article class="product wow fadeInLeft">
                         <div class="product-figure">
-                            <img src="images/Tallarin-1.jpg" alt="" width="161" height="162" />
+                            <img src="storage/productos/ron2ml.png" alt="" width="161" height="162" />
                         </div>
                         <div class="product-rating">
                             <span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span
                                 class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span
                                 class="mdi mdi-star"></span>
                         </div>
-                        <h6 class="product-title">Tallarin</h6>
+                        <h6 class="product-title">Ron FLor de Caña 5 Años 2 Lts </h6>
                         <div class="product-price-wrap">
-                            <div class="product-price product-price-old">Bs6.00</div>
-                            <div class="product-price">Bs4.00</div>
+                            <div class="product-price product-price-old">Bs150.00</div>
+                            <div class="product-price">Bs120.00</div>
                         </div>
                         <div class="product-button">
                             <div class="button-wrap">
@@ -353,7 +352,7 @@
                     </article>
                 </div>
             </div>
-            <a href="#">Ver Todos</a>
+            {{-- <a href="#">Ver Todos</a> --}}
         </div>
     </section>
 
@@ -371,9 +370,7 @@
                     <div class="quote-tara-caption">
                         <div class="quote-tara-text">
                             <p class="q">
-                                PizzaHouse is the longest lasting pizza place in the city
-                                and is well run and staffed. Prices are great and allow me
-                                to keep coming back.
+
                             </p>
                         </div>
                         <div class="quote-tara-figure">
@@ -388,9 +385,7 @@
                     <div class="quote-tara-caption">
                         <div class="quote-tara-text">
                             <p class="q">
-                                I am a real pizza addict, and even when I’m home I prefer
-                                your pizzas to all others. They taste awesome and are very
-                                affordable.
+
                             </p>
                         </div>
                         <div class="quote-tara-figure">
@@ -405,9 +400,7 @@
                     <div class="quote-tara-caption">
                         <div class="quote-tara-text">
                             <p class="q">
-                                PizzaHouse has amazing pizza. Not only do you get served
-                                with a great attitude, you also get delicious pizza at a
-                                great price!
+
                             </p>
                         </div>
                         <div class="quote-tara-figure">
@@ -422,9 +415,7 @@
                     <div class="quote-tara-caption">
                         <div class="quote-tara-text">
                             <p class="q">
-                                PizzaHouse has great pizza. Not only do you get served with
-                                a great attitude and delivered delicious pizza, you get a
-                                great price.
+
                             </p>
                         </div>
                         <div class="quote-tara-figure">

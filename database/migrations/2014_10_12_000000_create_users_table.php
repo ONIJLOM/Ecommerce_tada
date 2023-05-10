@@ -18,7 +18,7 @@ return new class extends Migration
             $table->string('name');
             $table->integer('ci')->unique()->nullable();
             $table->char('sexo')->nullable();
-            $table->integer('telefono')->unique();
+            $table->integer('telefono')->nullable();
             $table->string('domicilio')->nullable();
             $table->string('estado')->nullable();
             $table->boolean('TipoC')->nullable();

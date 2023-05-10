@@ -26,31 +26,12 @@
           <div class="tab-content tab-content-1">
             <div class="tab-pane fade show active" id="tabs-4-1">
               <h4>Un poco de nuestra historia</h4>
-              <p>La historia del grupo empresarial y familiar "Hnos. Vicente SRL", conocida como Industrias FAMOSA, especializada en la producción y comercialización de harinas y fideos. Es una travesía entre las oportunidades y el encanto de un pueblo que atrajo para sí nuevas inversiones, en su afán de progreso. Esa mística tan particular de la Santa Cruz de las últimas seis décadas se fue haciendo con el arribo de  nuevos emprendedores económicos.</p>
-              <p>Y uno de  ellos es José María Vicente Vicario que en 1960 cruzó el Atlántico desde su natal España para afincarse, primero en la aún promisoria Potosí. Allí trabajaría en la empresa Blanco y Cia. “Las Dos Naciones”.</p>
-              <p>Después de 14 años de estadía en la Villa Imperial, ya con familia boliviana, José María se traslada hacia Santa Cruz. "Junto a mis hermanos José Antonio y Jesús vimos en Santa Cruz nuevas oportunidades de negocios", sintetiza.</p>
-              <p>Un hito que hace empresa. Atraído por los nuevos vientos de progreso cruceño José María junto a sus hermanos se asocian a Navarro y Fernández en la empresa “Interlatina”. Años más tarde, la empresa inició una nueva inversión que seria la “Cia. Molinera Río Grande”. La sociedad se mantuvo hasta 1982.</p>
-              <p>Por discrepancias entre socios el proyecto se rompió y dio paso a la creación de la Empresa “Hermanos Vicente SRL”. Un emprendimiento netamente familiar. “Así que, aquí nos ve llenos de trabajo, llenos de problemas, llenos de deudas también pero seguimos adelante”, dice con aplomo José María Vicente, hoy Gerente General.</p>
-              <p>Aparejado al progreso. A partir de 1985 instala, promueve y jerarquiza en lo que hoy es un espacio de 5,2 hectáreas del parque industrial, su fábrica de harina y fideos. “Estamos generando 500 empleos, directos e indirectos. Yo soy un empleado más aquí, trabajando al pie del cañón”, señala Vicente sin dejar duda alguna sobre los logros alcanzados por la empresa.</p>
-              <p>Líneas de producción. Hoy por hoy FAMOSA oferta al mercado 34 formatos de fideo en 6 líneas de producción de alta tecnología italiana. El molino de industria suiza produce harina de trigo de calidad 000 y 0000 y subproductos como sémola, semolín y afrecho.</p>
-              <p>En al actualidad trabajan en la empresa 3 de sus hijos, José Enrique, Luis Javier y Rodrigo junto a dos de sus sobrinos José Antonio y Juan Pablo.</p>
-              <p>Un hito que hace empresa. Atraído por los nuevos vientos de progreso cruceño José María junto a sus hermanos se asocian a Navarro y Fernández en la empresa “Interlatina”. Años más tarde, la empresa inició una nueva inversión que seria la “Cia. Molinera Río Grande”. La sociedad se mantuvo hasta 1982.</p>
-              <p>Él no se cansa de repetir su gratitud con Santa Cruz, tierra donde forjó y consolidó un futuro quizá anhelado y hasta diferente para sus hijos, familia y el progreso regional. "Le digo gracias por permitirme vivir aquí. Tengo  un hijo potosino, una esposa e hija chuquisaqueña y dos hijos cruceños", Fin</p><img src="images/famosaaboutus.jpg" alt="" width="835" height="418"/>
-            </div>
-            <div class="tab-pane fade" id="tabs-4-2">
-              <h4>Offering the Best Pizza in Los Angeles</h4>
-              <p>Lotus advenas ducunt ad gemna. Ubi est domesticus domina? Heu, barbatus mens! Cum elogium favere, omnes lubaes tractare talis, barbatus adiuratores. Mirabilis hydras ducunt ad danista. Dominas sunt accentors de germanus cacula. Amicitias prarere in alta muta! Ecce, bubo! Nunquam promissio verpa. Talis, primus fugas recte consumere de audax, festus indictio. Nunquam quaestio scutum. Valebats</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><img src="images/about-1-835x418.jpg" alt="" width="835" height="418"/>
-            </div>
-            <div class="tab-pane fade" id="tabs-4-3">
-              <h4>Providing Top-notch Customer Service</h4>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
-              <p>Lotus advenas ducunt ad gemna. Ubi est domesticus domina? Heu, barbatus mens! Cum elogium favere, omnes lubaes tractare talis, barbatus adiuratores. Mirabilis hydras ducunt ad danista. Dominas sunt accentors de germanus cacula. Amicitias prarere in alta muta! Ecce, bubo! Nunquam promissio verpa. Talis, primus fugas recte consumere de audax, festus indictio. Nunquam quaestio scutum. Valebats</p><img src="images/about-1-835x418.jpg" alt="" width="835" height="418"/>
-            </div>
-            <div class="tab-pane fade" id="tabs-4-4">
-              <h4>Integrity & Dedication</h4>
-              <p>Albus, dexter particulas grauiter consumere de ferox, bi-color abactus. Impositios studere, tanquam mirabilis hippotoxota. Cur torus manducare? Pol, vox! Cum barcas nocere, omnes specieses contactus</p>
-              <p>Lotus advenas ducunt ad gemna. Ubi est domesticus domina? Heu, barbatus mens! Cum elogium favere, omnes lubaes tractare talis, barbatus adiuratores. Mirabilis hydras ducunt ad danista. Dominas sunt accentors de germanus cacula. Amicitias prarere in alta muta! Ecce, bubo! Nunquam promissio verpa. Talis, primus fugas recte consumere de audax, festus indictio. Nunquam quaestio scutum. Valebats</p><img src="images/about-1-835x418.jpg" alt="" width="835" height="418"/>
+              <p>¡Somos la cadena de retail más grande de Bolivia!
+
+                Nuestra presencia con más de 150 tiendas en toda Bolivia nos permite ser la cadena especializada en cervezas y bebidas alcohólicas más cerca tuyo.
+
+                También contamos con nuestro servicio de delivery a domicilio, en tan sólo unos cuantos pasos puedes comprar tus bebidas favoritas frías, a buen precio y lo mejor: ¡en menos de 35 minutos!</p>
+            </p><img src="images/fondocatalog.jpg" alt="" width="835" height="418"/>
             </div>
           </div>
         </div>
@@ -58,7 +39,7 @@
     </div>
   </section>
 
-  <!-- Icon Classic-->
+  {{-- <!-- Icon Classic-->
   <section class="section section-lg bg-gray-100">
     <div class="container">
       <div class="row row-md row-50">
@@ -98,91 +79,6 @@
                 <h5 class="box-icon-classic-title"><a href="#">Ingredientes de primera calidad</a></h5>
                 <p class="box-icon-classic-text">Tratamos de que nuestros productos tengan una excelente calidad al momento de consumirlos.</p>
               </div>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Our Team-->
-
-  <section class="section section-lg section-bottom-md-70 bg-default">
-    <div class="container">
-      <h3 class="oh"><span class="d-inline-block wow slideInUp" data-wow-delay="0s">Nuestro equipo</span></h3>
-      <div class="row row-lg row-40 justify-content-center">
-        <div class="col-sm-6 col-lg-4 wow fadeInLeft" data-wow-delay=".2s" data-wow-duration="1s">
-          <!-- Team Modern-->
-          <article class="team-modern"><a class="team-modern-figure" href="#"><img src="images/jose.jpg" alt="" width="270" height="236"/></a>
-            <div class="team-modern-caption">
-              <h6 class="team-modern-name"><a href="#">Jose Carlos Alarcon Del Pozo</a></h6>
-              <div class="team-modern-status">Programador</div>
-              <ul class="list-inline team-modern-social-list">
-                <li><a class="icon mdi mdi-facebook" target="_black" href="https://www.facebook.com/josecarlos.alarcon.18"></a></li>
-<!--                     <li><a class="icon mdi mdi-twitter" href="#"></a></li>
--->                    <li><a class="icon mdi mdi-instagram" target="_black" href="https://www.instagram.com/josecarlos.alarcon.18/"></a></li>
-<!--                     <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
--->                  </ul>
-            </div>
-          </article>
-        </div>
-        <div class="col-sm-6 col-lg-3 wow fadeInLeft" data-wow-delay="0s" data-wow-duration="1s">
-          <!-- Team Modern-->
-          <article class="team-modern"><a class="team-modern-figure" href="#"><img src="images/josue.jpg" alt="" width="270" height="236"/></a>
-            <div class="team-modern-caption">
-              <h6 class="team-modern-name"><a href="#">Josué Choquebarra Caballero</a></h6>
-              <div class="team-modern-status">Editor</div>
-              <ul class="list-inline team-modern-social-list">
-                <li><a class="icon mdi mdi-facebook" target="_black" href="https://www.facebook.com/josue.choquebarracaballero"></a></li>
-                <!-- <li><a class="icon mdi mdi-twitter" href="#"></a></li> -->
-                <li><a class="icon mdi mdi-instagram" target="_black" href="https://www.instagram.com/josue.chc/"></a></li>
-                <!-- <li><a class="icon mdi mdi-google-plus" href="#"></a></li> -->
-              </ul>
-            </div>
-          </article>
-        </div>
-        <div class="col-sm-6 col-lg-3 wow fadeInLeft" data-wow-delay="0s" data-wow-duration="1s">
-          <!-- Team Modern-->
-          <article class="team-modern"><a class="team-modern-figure"   ><img src="images/marcelo.jpg" alt="" width="270" height="236"/></a>
-            <div class="team-modern-caption">
-              <h6 class="team-modern-name"><a href="#">Marcelo Vargas Ávila</a></h6>
-              <div class="team-modern-status">Programador</div>
-              <ul class="list-inline team-modern-social-list">
-                <li><a class="icon mdi mdi-facebook" target="_black" href="https://www.facebook.com/marcelo.vargasavila.5"></a></li>
-               <!--  <li><a class="icon mdi mdi-twitter" href="#"></a></li> -->
-                <li><a class="icon mdi mdi-instagram" target="_black" href="https://www.instagram.com/maru_var2/"></a></li>
-<!--                     <li><a class="icon mdi mdi-google-plus" target="_black" href="marcelo0920.z@gmail.com"></a></li>
--->                  </ul>
-            </div>
-          </article>
-        </div>
-        <div class="col-sm-6 col-lg-3 wow fadeInRight" data-wow-delay=".1s" data-wow-duration="1s">
-          <!-- Team Modern-->
-          <article class="team-modern"><a class="team-modern-figure" href="#"><img src="images/michael.jpg" alt="" width="270" height="236"/></a>
-            <div class="team-modern-caption">
-              <h6 class="team-modern-name"><a href="#">Michael Humerez Estepo</a></h6>
-              <div class="team-modern-status">Editor</div>
-              <ul class="list-inline team-modern-social-list">
-                <li><a class="icon mdi mdi-facebook" target="_black" href="https://www.facebook.com/profile.php?id=100040578041041"></a></li>
-<!--                     <li><a class="icon mdi mdi-twitter" href="#"></a></li>
--->                    <li><a class="icon mdi mdi-instagram" target="_black" href="https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F2_m_i_c_h_a_e_l_1%3Ffbclid%3DIwAR1Lyzxs1VwxkEQ6Wz6TORDE_i40F80fX7YiF4vwP8DqRfznMq5mC10IaDc&h=AT2fUD8nfdm_xoZnwSH8pKta4H99EFM6sJY31i9nzp97WS-xJfaVRG4kjMcN_HQNO0NKeTtLfE_gkvtSbQ8QgBGykH9VF953ZcR7Ir3PjNXgo1X1LLc-NU8WS8Ry-uwX3Aqu"></a></li>
-<!--                     <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
--->                  </ul>
-            </div>
-          </article>
-        </div>
-        <div class="col-sm-6 col-lg-3 wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
-          <!-- Team Modern-->
-          <article class="team-modern"><a class="team-modern-figure" href="#"><img src="images/baudir.jpg" alt="" width="270" height="236"/></a>
-            <div class="team-modern-caption">
-              <h6 class="team-modern-name"><a href="#">Baudir Justiniano Justiniano</a></h6>
-              <div class="team-modern-status">Programador</div>
-              <ul class="list-inline team-modern-social-list">
-                <li><a class="icon mdi mdi-facebook" target="_black" href="https://www.facebook.com/baudir.justiniano"></a></li>
-            <!--     <li><a class="icon mdi mdi-twitter" href="#"></a></li> -->
-                <li><a class="icon mdi mdi-instagram" target="_black" href="https://www.instagram.com/budin_pr/"></a></li>
-               <!--  <li><a class="icon mdi mdi-google-plus" href="#"></a></li> -->
-              </ul>
             </div>
           </article>
         </div>
@@ -301,7 +197,7 @@
         <div class="col-lg-6 col-xl-7"><img src="images/loqueopinan.png" alt="" width="669" height="447"/>
         </div>
       </div>
-    </div>
+    </div>  --}}
   </section>
 
 

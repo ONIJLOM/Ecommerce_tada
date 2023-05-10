@@ -16,16 +16,19 @@ class PesoSeeder extends Seeder
     public function run()
     {
         Peso::create([
-            'gramos' => '400'
+            'ml' => '300'
         ]);
         Peso::create([
-            'gramos' => '1000'
+            'ml' => '500'
         ]);
         Peso::create([
-            'gramos' => '2000'
+            'ml' => '1000'
         ]);
         Peso::create([
-            'gramos' => '3000'
+            'ml' => '2000'
+        ]);
+        Peso::create([
+            'ml' => '3000'
         ]);
     }
 }

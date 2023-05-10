@@ -9,7 +9,7 @@
                 <form action="/register" method="POST">
                     @csrf
                     @include('layouts.partials.messages')
-                    <span class="login100-form-title"> Famosa Registration</span>
+                    <span class="login100-form-title"> Tada Registration</span>
                     <div class="wrap-input100 validate-input">
                         <input id="name" class="input100" type="text" name="name" placeholder="Nombre Completo"
                             :value="old('name')" required autofocus autocomplete="name" />
